@@ -1,0 +1,7 @@
+.StoreTotal{
+font-size: 40px;
+display: flex;
+flex: 5;
+flex-direction: row;
+width: 90%;
+}

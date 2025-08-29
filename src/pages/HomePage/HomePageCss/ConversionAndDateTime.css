@@ -1,0 +1,24 @@
+.SmallBubble{
+display: flex; 
+flex-direction: row;
+height:260px;
+margin: 10px;
+justify-content: space-between;
+}
+.ConversionRates{
+padding-top: 5px;
+border:solid;
+border-color: rgb(0, 0, 0);
+flex: 1;
+margin-right: 5px;
+border-radius: 20px;
+}
+.DateTime{
+    padding-top: 5px;
+border:solid;
+font-size: 30px;
+padding-left: 10px;
+border-color: rgb(0, 0, 0);
+flex: 1;
+border-radius: 20px;
+}

@@ -1,0 +1,18 @@
+.Header{
+border-bottom:solid;
+font-size: 60px;
+border-color: rgb(0, 0, 0);
+height: 160px;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.CurrentStoreHeader{
+    font-size: 30px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  padding-top: 5px;
+  padding-bottom: 10px;
+  flex-direction: column;
+}

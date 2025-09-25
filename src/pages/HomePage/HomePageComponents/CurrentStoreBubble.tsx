@@ -10,8 +10,8 @@ return(
                 Current Store
             </div>
             <div className="StoreTotal">
-            $USD place<br />
-            ¥YEN Place
+            $1,000.21<br />
+            ¥10,203
           </div>
     </LargeBubble>
 )

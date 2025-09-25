@@ -1,0 +1,19 @@
+.ItemInputCard{
+    display: flex;
+    align-items: center;
+    justify-content: space-betweens;
+}
+.ManuelInput{
+    height: 100%;
+    width: 100%;
+}
+.ScanInput{
+    height: 100%;
+    width: 100%;
+} 
+.InputButton{
+    background-color:whitesmoke;
+    border: 0px solid #000;
+    margin: 5px;
+    font-size: large;
+}

@@ -7,18 +7,16 @@ justify-content: space-between;
 }
 .ConversionRates{
 padding-top: 5px;
-border:solid;
-border-color: rgb(0, 0, 0);
+border: 3px solid #000;
 flex: 1;
 margin-right: 5px;
 border-radius: 20px;
 }
 .DateTime{
-    padding-top: 5px;
-border:solid;
+padding-top: 5px;
 font-size: 30px;
 padding-left: 10px;
-border-color: rgb(0, 0, 0);
+border: 3px solid #000;
 flex: 1;
 border-radius: 20px;
 }
